@@ -1,0 +1,22 @@
+##############################################################################
+READ ME
+##############################################################################
+ABOUT:
+	Hank is a basic command line virtual assistant. At hte time of his creation, I have had very minimal advanced programming. Most of my programming experience is Scientific, so I am familiar with python.
+
+Hank will be getting improvements. Some prospects include:
+	Voice interface
+	Personnel files
+		
+He currently performs the following tasks:
+	Animated face movements while talking
+	Tells the time as well as date and such
+	Reports the weather, retrieved from nearest Regional Airport
+	Tells jokes
+	Reads the first sentence of a prompted Wikipedia page
+
+
+
+
+
+
